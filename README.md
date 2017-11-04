@@ -1,0 +1,2 @@
+# angularseed
+Angular seed project
